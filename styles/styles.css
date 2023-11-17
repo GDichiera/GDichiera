@@ -47,3 +47,13 @@ a{
 #font-hyperblog{
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
+#logoPaginaRandom{
+    width: 50px;
+    margin-right: 10px;
+}
+#font-paginaRandom{
+    font-family: 'agbalumo';
+    color: #2A428B;
+    font-size: 2rem;
+    text-shadow: 1px 1px 3px black;
+}
